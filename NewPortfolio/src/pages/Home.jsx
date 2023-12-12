@@ -1,4 +1,5 @@
 import Navigation from "../components/Navigation"
+import Projects from "../components/Projects"
 import Skills from "../components/Skills"
 import Summary from "../components/Summary"
 import TechStack from "../components/TechStack"
@@ -12,6 +13,7 @@ export default function Home() {
                 <Summary />
                 <TechStack />
                 <Skills />
+                <Projects />
             </div>
 
         </main>

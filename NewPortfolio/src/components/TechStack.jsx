@@ -25,7 +25,7 @@ export default function TechStack() {
                 <article className="grid grid-cols-1 place-items-center">
                     <h2 className="mb-16 text-4xl font-bold tracking-tight">
                         Tech{" "}
-                        <u className="text-cyan-600 text-4xl font-bold tracking-tight">
+                        <u className="text-teal-800 text-4xl font-bold tracking-tight">
                             Stack
                         </u>
                     </h2>
@@ -38,7 +38,7 @@ export default function TechStack() {
             <AppearOnScroll>
                 <div className="grid gap-x-6 md:grid-cols-3 lg:gap-x-12 md:mx-44">
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-black text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-black text-8xl">
                             <RiJavascriptFill />
                         </div>
                         <h5 className="mb-4 text-lg font-bold">JavaScript</h5>
@@ -46,7 +46,7 @@ export default function TechStack() {
                     </div>
 
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <RiReactjsLine />
                         </div>
                         <h5 className="mb-4 text-lg font-bold">React</h5>
@@ -54,7 +54,7 @@ export default function TechStack() {
                     </div>
 
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <IoLogoPython />
 
                         </div>
@@ -64,7 +64,7 @@ export default function TechStack() {
 
                     </div>
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <SiSqlite />
 
                         </div>
@@ -72,7 +72,7 @@ export default function TechStack() {
 
                     </div>
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <SiSqlalchemy />
 
                         </div>
@@ -80,14 +80,14 @@ export default function TechStack() {
 
                     </div>
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <BiLogoFlask />
                         </div>
                         <h5 className="mb-4 text-lg font-bold">Flask</h5>
 
                     </div>
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <TiHtml5 />
 
                         </div>
@@ -95,7 +95,7 @@ export default function TechStack() {
 
                     </div>
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <FaCss3 />
 
 
@@ -104,7 +104,7 @@ export default function TechStack() {
 
                     </div>
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <SiTailwindcss />
 
                         </div>
@@ -114,7 +114,7 @@ export default function TechStack() {
                 </div>
                 <div className="grid gap-x-6 md:grid-cols-2 lg:gap-x-12 md:mx-80">
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <SiVite />
 
 
@@ -123,7 +123,7 @@ export default function TechStack() {
 
                     </div>
                     <div className="mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md bg-cyan-600 p-4 text-primary text-8xl">
+                        <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <FaGithub />
 
 

@@ -10,7 +10,7 @@ export default function Skills() {
                 <article className="grid grid-cols-1 place-items-center">
                     <h2 className="mb-16 text-4xl font-bold tracking-tight">
                         My{" "}
-                        <u className="text-cyan-600 text-4xl font-bold tracking-tight">
+                        <u className="text-teal-800 text-4xl font-bold tracking-tight">
                             Skills
                         </u>
                     </h2>
@@ -21,83 +21,83 @@ export default function Skills() {
                 <div className="flex flex-wrap md:mx-44">
                     {/* <div className="grid gap-x-6 md:grid-cols-3 lg:gap-x-12 mx-44"> */}
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Quick Learner</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Attention to Detail</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Teamwork</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Communication</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Collaboration</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Planning</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Microsoft Office</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Typing</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Time Management</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Priortization</h5>
                         </div>
                     </div>
 
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Orginazation</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Version Control</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Customer Service</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Speaking</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Problem Solving</h5>
                         </div>
                     </div>
                     <div className="flex-auto mb-12 md:mb-0">
-                        <div className="mb-6 inline-block rounded-full bg-gray-700 p-2 text-cyan-400 text-8xl">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">
                             <h5 className="text-lg font-bold">Interpersonal Skills</h5>
                         </div>
                     </div>

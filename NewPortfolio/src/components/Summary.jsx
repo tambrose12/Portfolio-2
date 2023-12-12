@@ -5,7 +5,7 @@ export default function Summary() {
     return (
         <section className="mb-32 py-28">
             <h1 className="text-center text-4xl font-bold tracking-tight py-4">
-                <u className="text-cyan-600">Hi,</u> I'm Taylor!
+                <u className="text-teal-800">Hi,</u> I'm Taylor!
             </h1>
             <div className="flex flex-wrap px-3">
                 <div className="mb-12 w-full shrink-0 grow-0 basis-auto lg:mb-0 lg:w-5/12">

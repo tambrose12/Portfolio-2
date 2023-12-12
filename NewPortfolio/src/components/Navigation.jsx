@@ -19,7 +19,7 @@ const Navigation = () => {
     let [open, setOpen] = useState(false)
 
     return (
-        <div className="shadow-md w-full fixed top-0 left-0 text-cyan-800 z-[20]">
+        <div className="shadow-md w-full fixed top-0 left-0 text-teal-800 z-[20]">
             <div className="md:flex items-center justify-between bg-white py-4 md:px-10 px-7">
                 <div className="font-bold text-2xl cursor-pointer flex items-center">
                     <a href="/" className="hover:text-gray-400">Taylor Ambrose</a>

@@ -1,5 +1,7 @@
 import Navigation from "../components/Navigation"
+import Skills from "../components/Skills"
 import Summary from "../components/Summary"
+import TechStack from "../components/TechStack"
 
 
 export default function Home() {
@@ -8,6 +10,8 @@ export default function Home() {
             <Navigation />
             <div className="container mx-auto" >
                 <Summary />
+                <TechStack />
+                <Skills />
             </div>
 
         </main>

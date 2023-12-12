@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 875 875" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.38157,0,0,1.45524,-25.8193,-46.4591)">
+        <ellipse cx="338.313" cy="332.322" rx="304.001" ry="288.612" style="fill:none;stroke:rgb(49,59,83);stroke-width:10.57px;"/>
+    </g>
+    <g transform="matrix(0.93603,0,0,0.93603,-67.4009,134.647)">
+        <g transform="matrix(522.706,0,0,522.706,928.769,507.992)">
+        </g>
+        <text x="188.095px" y="507.992px" style="font-family:'Charmonman-Bold', 'Charmonman';font-weight:700;font-size:522.706px;fill:rgb(49,59,83);">TA</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-62.9647,137.794)">
+        <g transform="matrix(288,0,0,288,750.586,98.2604)">
+        </g>
+        <text x="282.01px" y="98.26px" style="font-family:'BodoniOrnamentsITCTT', 'Bodoni Ornaments';font-size:288px;fill:rgb(49,59,83);">[</text>
+    </g>
+    <g transform="matrix(-1,0,0,-1,962.813,729.956)">
+        <g transform="matrix(288,0,0,288,750.586,98.2604)">
+        </g>
+        <text x="282.01px" y="98.26px" style="font-family:'BodoniOrnamentsITCTT', 'Bodoni Ornaments';font-size:288px;fill:rgb(49,59,83);">[</text>
+    </g>
+</svg>

@@ -36,7 +36,7 @@ export default function TechStack() {
                 </article>
             </AppearOnScroll>
             <AppearOnScroll>
-                <div className="grid gap-x-6 md:grid-cols-3 lg:gap-x-12 md:mx-44">
+                <div className="grid gap-x-6 md:grid-cols-3 lg:gap-x-12 md:mx-38">
                     <div className="mb-12 md:mb-0">
                         <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-black text-8xl">
                             <RiJavascriptFill />
@@ -111,8 +111,6 @@ export default function TechStack() {
                         <h5 className="mb-4 text-lg font-bold">TailwindCSS</h5>
 
                     </div>
-                </div>
-                <div className="grid gap-x-6 md:grid-cols-2 lg:gap-x-12 md:mx-80">
                     <div className="mb-12 md:mb-0">
                         <div className="mb-6 inline-block rounded-md bg-teal-800 p-4 text-primary text-8xl">
                             <SiVite />
@@ -132,6 +130,9 @@ export default function TechStack() {
                         <h5 className="mb-4 text-lg font-bold">GitHub</h5>
                     </div>
                 </div>
+                {/* <div className="grid gap-x-6 md:grid-cols-2 lg:gap-x-12 md:mx-78"> */}
+
+                {/* </div> */}
             </AppearOnScroll>
         </section>
     );

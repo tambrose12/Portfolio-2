@@ -3,8 +3,8 @@ import codeDesk2 from "../assets/codeDesk2.jpg"
 
 export default function Summary() {
     return (
-        <section className="mb-32 py-28">
-            <h1 className="text-center text-4xl font-bold tracking-tight py-4">
+        <section className="mb-32 py-8">
+            <h1 className="text-center text-4xl font-bold tracking-tight pt-20">
                 <u className="text-teal-800">Hi,</u> I'm Taylor!
             </h1>
             <div className="flex flex-wrap px-3">

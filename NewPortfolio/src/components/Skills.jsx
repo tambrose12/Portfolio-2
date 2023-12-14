@@ -18,7 +18,7 @@ export default function Skills() {
                 </article>
             </AppearOnScroll>
             <AppearOnScroll>
-                <div className="flex flex-wrap md:mx-44">
+                <div className="flex flex-wrap md:mx-38">
                     {/* <div className="grid gap-x-6 md:grid-cols-3 lg:gap-x-12 mx-44"> */}
                     <div className="flex-auto mb-12 md:mb-0">
                         <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-8xl">

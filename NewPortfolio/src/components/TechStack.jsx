@@ -20,7 +20,7 @@ export default function TechStack() {
 
 
     return (
-        <section className="mb-32 text-center container px-4">
+        <section className="mb-32 pt-32 text-center container px-4" id="tech">
             <AppearOnScroll>
                 <article className="grid grid-cols-1 place-items-center">
                     <h2 className="mb-16 text-4xl font-bold tracking-tight">

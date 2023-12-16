@@ -3,7 +3,7 @@ import codeDesk2 from "../assets/codeDesk2.jpg"
 
 export default function Summary() {
     return (
-        <section className="mb-32 py-8">
+        <section className="mb-20 py-8" id="taylor">
             <h1 className="text-center text-4xl font-bold tracking-tight pt-20">
                 <u className="text-teal-800">Hi,</u> I'm Taylor!
             </h1>

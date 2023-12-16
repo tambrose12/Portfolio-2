@@ -8,9 +8,9 @@ import { IoCloseSharp } from "react-icons/io5";
 const Navigation = () => {
     let Links = [
 
-        { name: "Tech Stack", link: "/stack" },
-        { name: "Skills", link: "/skills" },
-        { name: "Projects", link: "/projects" },
+        { name: "Tech Stack", link: "#tech" },
+        { name: "Skills", link: "#skills" },
+        { name: "Projects", link: "#projects" },
         { name: "Resume", link: "/resume" },
         { name: "Contact", link: "/contact" },
 

@@ -1,5 +1,11 @@
 import codeDesk from "../assets/codeDesk.jpg"
 import codeDesk2 from "../assets/codeDesk2.jpg"
+import { BsGithub } from 'react-icons/bs'
+import { ImLinkedin } from 'react-icons/im'
+import { FaMedium } from 'react-icons/fa'
+import { GrDocumentUser } from "react-icons/gr";
+import Resume from '../assets/ResumeUpdated.pdf'
+import { MdOutlineEmail } from "react-icons/md";
 
 export default function Summary() {
     return (
@@ -27,16 +33,53 @@ export default function Summary() {
                     <div className="flex h-full items-center rounded-lg bg-lapiz-400 p-6 text-center lg:pl-12 lg:text-left">
                         <div className="lg:pl-12">
                             <h2 className="mb-8 text-3xl font-bold">
-                                Full Stack Software Engineer
+                                Full-Stack Software Engineer
                             </h2>
                             <p className="mb-8 pb-2 lg:pb-0">
-                                I am passionate about solving problems with Web Development and Design.
+                                I am passionate about creating beautiful and user-friendly sites and applications with Web Development and Design.
                             </p>
                             <p className="mb-8 pb-2 lg:pb-0">I enjoy thinking through complex problems, and the rewarding feeling of overcoming challenges. Creating functional web applications brings me a great deal of satisfaction.</p>
 
-                            <p className="mb-8 pb-2 lg:pb-0">I possess a background in the mortgage and financial industry, where strong skills in detail-oriented documentation review and communicating complex product and government guidelines to teams were frequently demonstrated. My former position required me to carefully examine my work and find solutions to problems. This skillset will allow me to be a valuable asset in almost any line of work, including Software Engineering and Web Development.</p>
+                            <p className="mb-8 pb-2 lg:pb-0">I possess a background in the mortgage and financial industry, where strong skills in detail-oriented documentation review and communicating complex product and government guidelines to teams were frequently demonstrated. My former position required me to carefully examine my work and find solutions to problems. This skillset allows me to be a valuable asset in almost any line of work, including Software Engineering and Web Development.</p>
 
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div className="flex items-center text-center">
+                <div className="flex-auto mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                        <a href='https://www.linkedin.com/in/taylorambrose'>
+                            <ImLinkedin />
+                        </a>
+                    </div>
+                </div>
+                <div className="flex-auto mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                        <a href='https://github.com/tambrose12'>
+                            <BsGithub />
+                        </a>
+                    </div>
+                </div>
+                <div className="flex-auto mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                        <a href='https://medium.com/@taykesby'>
+                            <FaMedium />
+                        </a>
+                    </div>
+                </div>
+                <div className="flex-auto mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                        <a href={Resume}>
+                            <GrDocumentUser />
+                        </a>
+                    </div>
+                </div>
+                <div className="flex-auto mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                        <a href="mailto:taykesby@gmail.com?subject=Hello%20Taylor">
+                            <MdOutlineEmail />
+                        </a>
                     </div>
                 </div>
             </div>

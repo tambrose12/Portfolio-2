@@ -11,8 +11,8 @@ const Navigation = () => {
         { name: "Tech Stack", link: "#tech" },
         { name: "Skills", link: "#skills" },
         { name: "Projects", link: "#projects" },
-        { name: "Resume", link: "/resume" },
-        { name: "Contact", link: "/contact" },
+        { name: "Resume", link: "#resume" },
+        { name: "Contact", link: "#contact" },
 
     ]
 

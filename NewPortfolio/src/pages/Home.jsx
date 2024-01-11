@@ -9,7 +9,7 @@ import Contact from "../components/Contact"
 
 export default function Home() {
     return (
-        <main className="">
+        <div className="dark:bg-slate-800 dark:text-gray-300">
             <Navigation />
             <div className="container mx-auto" >
                 <Summary />
@@ -20,6 +20,6 @@ export default function Home() {
                 <Contact />
             </div>
 
-        </main>
+        </div>
     )
 }

@@ -11,7 +11,7 @@ export default function MyResume() {
                 <article className="grid grid-cols-1 place-items-center">
                     <h2 className="mb-16 text-4xl font-bold tracking-tight">
                         My{" "}
-                        <u className="text-teal-800 text-4xl font-bold tracking-tight">
+                        <u className="text-teal-800 dark:text-cyan-500 text-4xl font-bold tracking-tight">
                             Resume
                         </u>
                     </h2>
@@ -21,7 +21,7 @@ export default function MyResume() {
             <AppearOnScroll>
                 <div className="flex items-center text-center">
                     <div className="flex-auto mb-8 md:mb-0">
-                        <div className="mb-6 inline-block rounded-md text-gray-200 p-4 bg-teal-800 text-6xl hover:shadow-md hover:shadow-gray-500">
+                        <div className="mb-16 inline-block rounded-md text-gray-200 p-4 bg-teal-800 dark:bg-cyan-600 text-2xl hover:shadow-md hover:shadow-gray-500 dark:hover:shadow-cyan-600">
                             <a href={Resume} className="flex">
                                 <GrDocumentUser /> {" "}
                                 View Resume

@@ -11,7 +11,7 @@ export default function Summary() {
     return (
         <section className="mb-20 py-8" id="taylor">
             <h1 className="text-center text-4xl font-bold tracking-tight pt-20">
-                <u className="text-teal-800">Hi,</u> I'm Taylor!
+                <u className="text-teal-800 dark:text-cyan-500">Hi,</u> I'm Taylor!
             </h1>
             <div className="flex flex-wrap px-3">
                 <div className="mb-12 w-full shrink-0 grow-0 basis-auto lg:mb-0 lg:w-5/12">
@@ -30,7 +30,7 @@ export default function Summary() {
                 </div>
 
                 <div className="w-full shrink-0 grow-0 basis-auto lg:w-7/12">
-                    <div className="flex h-full items-center rounded-lg bg-lapiz-400 p-6 text-center lg:pl-12 lg:text-left">
+                    <div className="flex h-full items-center rounded-lg p-6 text-center lg:pl-12 lg:text-left">
                         <div className="lg:pl-12">
                             <h2 className="mb-8 text-3xl font-bold">
                                 Full-Stack Software Engineer
@@ -46,37 +46,37 @@ export default function Summary() {
                     </div>
                 </div>
             </div>
-            <div className="flex items-center text-center">
-                <div className="flex-auto mb-8 md:mb-0">
-                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+            <div className="flex items-center place-content-center text-center">
+                <div className="text-center mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 dark:text-cyan-600 md:text-6xl text-2xl mx-2 hover:shadow-md hover:shadow-teal-800 dark:hover:shadow-cyan-600">
                         <a href='https://www.linkedin.com/in/taylorambrose'>
                             <ImLinkedin />
                         </a>
                     </div>
                 </div>
-                <div className="flex-auto mb-8 md:mb-0">
-                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                <div className="text-center mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 dark:text-cyan-600 md:text-6xl text-2xl mx-2 hover:shadow-md hover:shadow-teal-800 dark:hover:shadow-cyan-600">
                         <a href='https://github.com/tambrose12'>
                             <BsGithub />
                         </a>
                     </div>
                 </div>
-                <div className="flex-auto mb-8 md:mb-0">
-                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                <div className="text-center mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 dark:text-cyan-600 md:text-6xl text-2xl mx-2 hover:shadow-md hover:shadow-teal-800 dark:hover:shadow-cyan-600">
                         <a href='https://medium.com/@taykesby'>
                             <FaMedium />
                         </a>
                     </div>
                 </div>
-                <div className="flex-auto mb-8 md:mb-0">
-                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                <div className="text-center mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 dark:text-cyan-600 md:text-6xl text-2xl mx-2 hover:shadow-md hover:shadow-teal-800 dark:hover:shadow-cyan-600">
                         <a href={Resume}>
                             <GrDocumentUser />
                         </a>
                     </div>
                 </div>
-                <div className="flex-auto mb-8 md:mb-0">
-                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 text-6xl hover:shadow-md hover:shadow-teal-800">
+                <div className="text-center mb-8 md:mb-0">
+                    <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 dark:text-cyan-600 md:text-6xl text-2xl mx-2 hover:shadow-md hover:shadow-teal-800 dark:hover:shadow-cyan-600">
                         <a href="mailto:taykesby@gmail.com?subject=Hello%20Taylor">
                             <MdOutlineEmail />
                         </a>

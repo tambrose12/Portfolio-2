@@ -20,7 +20,7 @@ function App() {
   return (
     <>
       <Home />
-      <div className='w-full h-screen'></div>
+
     </>
   );
 }

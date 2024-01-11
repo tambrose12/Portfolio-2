@@ -25,7 +25,7 @@ export default function Projects() {
                 <article className="grid grid-cols-1 place-items-center">
                     <h2 className="mb-16 text-4xl font-bold tracking-tight">
                         My{" "}
-                        <u className="text-teal-800 text-4xl font-bold tracking-tight">
+                        <u className="text-teal-800 dark:text-cyan-500 text-4xl font-bold tracking-tight">
                             Projects
                         </u>
                     </h2>
@@ -38,23 +38,23 @@ export default function Projects() {
             {/* <div className='grid gap-x-6 gap-y-6 md:grid-cols-2 lg:gap-x-12 md:mx-38 px-4'> */}
             <AppearOnScroll>
                 <div className='columns-2 '>
-                    <a href="https://compasscodedev.com/"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={CompassCode} alt="CompassCode-Thumbnail" /></a>
+                    <a href="https://compasscodedev.com/"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={CompassCode} alt="CompassCode-Thumbnail" /></a>
 
-                    <a href="https://github.com/tambrose12/Recipe-Box"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={imageUrl} alt="RecipeBox-Thumbnail" /></a>
+                    <a href="https://github.com/tambrose12/Recipe-Box"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={imageUrl} alt="RecipeBox-Thumbnail" /></a>
 
-                    <a href="https://github.com/tambrose12/F1-Flask-Paced"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={imageUrl2} alt="F1-Flask-Paced-Thumbnail" /></a>
+                    <a href="https://github.com/tambrose12/F1-Flask-Paced"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={imageUrl2} alt="F1-Flask-Paced-Thumbnail" /></a>
 
-                    <a href="https://github.com/tambrose12/HabitStat"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={imageUrl3} alt="HabitStat-Thumbnail" /></a>
+                    <a href="https://github.com/tambrose12/HabitStat"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={imageUrl3} alt="HabitStat-Thumbnail" /></a>
                     {/* 
-                <a href="https://github.com/tambrose12/seed-co"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={seedcomobile} alt="SeedCoMobile-Thumbnail" /></a> */}
+                <a href="https://github.com/tambrose12/seed-co"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={seedcomobile} alt="SeedCoMobile-Thumbnail" /></a> */}
 
-                    <a href="https://github.com/tambrose12/seed-co"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={seedco} alt="SeedCo-Thumbnail" /></a>
+                    <a href="https://github.com/tambrose12/seed-co"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={seedco} alt="SeedCo-Thumbnail" /></a>
 
-                    <a href="https://github.com/tambrose12/Portfolio"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={Portfolio1} alt="Portfolio1-Thumbnail" /></a>
+                    <a href="https://github.com/tambrose12/Portfolio"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={Portfolio1} alt="Portfolio1-Thumbnail" /></a>
 
-                    <a href="https://compasscodedev.com/GrandOpening"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={CompassCodeMobile} alt="CompassCodeMobile-Thumbnail" /></a>
+                    <a href="https://compasscodedev.com/GrandOpening"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={CompassCodeMobile} alt="CompassCodeMobile-Thumbnail" /></a>
 
-                    <a href="https://github.com/tambrose12/GitClassyU-CLI"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-xl hover:shadow-teal-800' src={imageUrl4} alt="GCU-CLI-Thumbnail" /></a>
+                    <a href="https://github.com/tambrose12/GitClassyU-CLI"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={imageUrl4} alt="GCU-CLI-Thumbnail" /></a>
 
                 </div>
             </AppearOnScroll>

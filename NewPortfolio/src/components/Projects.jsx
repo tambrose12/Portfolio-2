@@ -20,7 +20,7 @@ export default function Projects() {
 
 
     return (
-        <section className='pt-32 projects project-section' id='projects'>
+        <section className='pt-20 projects project-section' id='projects'>
             <AppearOnScroll>
                 <article className="grid grid-cols-1 place-items-center">
                     <h2 className="mb-16 text-4xl font-bold tracking-tight">

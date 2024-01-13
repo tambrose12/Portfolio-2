@@ -5,7 +5,7 @@ export default function Skills() {
 
 
     return (
-        <section className="mb-32 pt-32 text-center container px-4" id="skills">
+        <section className="mb-32 pt-20 text-center container px-4" id="skills">
             <AppearOnScroll>
                 <article className="grid grid-cols-1 place-items-center">
                     <h2 className="mb-16 text-4xl font-bold tracking-tight">

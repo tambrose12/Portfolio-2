@@ -7,6 +7,8 @@ import { GrDocumentUser } from "react-icons/gr";
 import Resume from '../assets/ResumeUpdated.pdf'
 import { MdOutlineEmail } from "react-icons/md";
 import { AppearOnScroll } from "./AppearOnScroll"
+import { VscGithub } from "react-icons/vsc";
+
 
 
 export default function Contact() {
@@ -20,7 +22,9 @@ export default function Contact() {
                         </u>
                         {" "} Me
                     </h2>
-
+                    <p className="mb-8 pb-2 lg:pb-0">
+                        Follow the links below to reach out to me on LinkedIn, check out my GitHub and Medium profiles, see my Resume and my Work GitHub, or send me an Email!
+                    </p>
                 </article>
             </AppearOnScroll>
             <AppearOnScroll>
@@ -50,6 +54,13 @@ export default function Contact() {
                         <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 dark:text-cyan-600 md:text-6xl text-2xl mx-2 hover:shadow-md hover:shadow-teal-800 dark:hover:shadow-cyan-600">
                             <a href={Resume}>
                                 <GrDocumentUser />
+                            </a>
+                        </div>
+                    </div>
+                    <div className="text-center mb-8 md:mb-0">
+                        <div className="mb-6 inline-block rounded-full bg-gray-300 p-2 text-teal-800 dark:text-cyan-600 md:text-6xl text-2xl mx-2 hover:shadow-md hover:shadow-teal-800 dark:hover:shadow-cyan-600">
+                            <a href="https://github.com/CompassTaylor">
+                                <VscGithub />
                             </a>
                         </div>
                     </div>

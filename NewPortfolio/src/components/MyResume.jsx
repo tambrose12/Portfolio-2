@@ -6,7 +6,7 @@ import Cert from "../assets/Cert.png"
 export default function MyResume() {
 
     return (
-        <section className='pt-32 projects project-section' id='resume'>
+        <section className='pt-20 projects project-section' id='resume'>
             <AppearOnScroll>
                 <article className="grid grid-cols-1 place-items-center">
                     <h2 className="mb-16 text-4xl font-bold tracking-tight">

@@ -27,7 +27,7 @@ const Navigation = () => {
                 <div onClick={() => setOpen(!open)} className="text-3xl absolute right-8 top-5 cursor-pointer md:hidden">
                     {open ? <IoCloseSharp /> : <GiHamburgerMenu />}
                 </div>
-                <ul className={`md:flex md:items-center md:pb-0 pb-12 absolute md:static md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 transition-all duration-500 ease-in ${open ? 'top-15' : 'top-[-490px]'}`}>
+                <ul className={`md:flex md:items-center md:pb-0 pb-12 absolute md:static md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 ${open ? 'top-15 block bg-white dark:bg-slate-800' : 'top-[-490px]'}`}>
                     {
                         Links.map((link) => (
                             <li key={link.name} className="md:ml-8 text-xl md:my-0 my-7">

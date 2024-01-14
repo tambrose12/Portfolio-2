@@ -37,7 +37,7 @@ export default function Projects() {
             </AppearOnScroll>
             {/* <div className='grid gap-x-6 gap-y-6 md:grid-cols-2 lg:gap-x-12 md:mx-38 px-4'> */}
             <AppearOnScroll>
-                <div className='columns-2 '>
+                <div className='columns-2 mx-2'>
                     <a href="https://compasscodedev.com/"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={CompassCode} alt="CompassCode-Thumbnail" /></a>
 
                     <a href="https://github.com/tambrose12/Recipe-Box"><img className='projectImg mb-8 border border-teal-800 rounded hover:shadow-lg hover:shadow-teal-800 dark:hover:shadow-cyan-600' src={imageUrl} alt="RecipeBox-Thumbnail" /></a>

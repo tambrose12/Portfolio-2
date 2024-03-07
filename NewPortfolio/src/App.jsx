@@ -18,10 +18,10 @@ function App() {
   const path = useLocation().pathname;
 
   return (
-    <>
+    <main className="dark:bg-slate-800 dark:text-gray-300">
       <Home />
 
-    </>
+    </main>
   );
 }
 

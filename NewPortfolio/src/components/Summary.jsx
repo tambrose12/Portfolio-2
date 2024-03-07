@@ -6,7 +6,7 @@ import { GrDocumentUser } from "react-icons/gr";
 import Resume from '../assets/ResumeUpdated.pdf'
 import { MdOutlineEmail } from "react-icons/md";
 import { VscGithub } from "react-icons/vsc";
-import PortfolioPicture from "../assets/PortfolioPicture.png"
+import PortfolioPicture from "../assets/ProfileHeadshot.jpg"
 
 
 export default function Summary() {
@@ -18,7 +18,7 @@ export default function Summary() {
             <h1 className="text-center text-4xl font-bold tracking-tight">
                 I'm <u className="text-teal-800 dark:text-cyan-500">Taylor Ambrose</u>
             </h1>
-            <div className="flex flex-wrap px-3 py-3">
+            <div className="flex flex-wrap px-3 py-3 ml-100">
                 <div className="mb-12 w-full shrink-0 grow-0 basis-auto lg:mb-0 lg:w-5/12">
                     <div className="flex lg:py-12">
                         {/* <img
@@ -28,8 +28,8 @@ export default function Summary() {
                         /> */}
                         <img
                             src={PortfolioPicture}
-                            className="z-[10] w-full rounded-lg shadow-lg dark:shadow-black/20 lg:ml-[50px]"
-                            alt="Photo by Fotis Fotopoulos on Unsplash"
+                            className="z-[10] lg:max-w-96 rounded-lg shadow-lg dark:shadow-black/20 lg:ml-[50px]"
+                            alt="Profile Photo - Taylor Ambrose"
                         />
                     </div>
                 </div>
@@ -47,6 +47,7 @@ export default function Summary() {
 
                             <p className="mb-8 pb-2 lg:pb-0">I possess a background in the mortgage and financial industry, where strong skills in detail-oriented documentation review and communicating complex product and government guidelines to teams were frequently demonstrated. My former position required me to carefully examine my work and find solutions to problems. This skillset allows me to be a valuable asset in almost any line of work, including Software Engineering and Web Development.</p>
 
+                            <p className="mb-8 pb-2 lg:pb-0">My attention to detail, excellent interpersonal skills, ability to learn new skills quickly, and excellent verbal and written communication skills make me an excellent fit for most teams!</p>
                         </div>
                     </div>
                 </div>

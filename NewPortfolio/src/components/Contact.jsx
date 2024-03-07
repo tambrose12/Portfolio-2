@@ -4,7 +4,7 @@ import { BsGithub } from 'react-icons/bs'
 import { ImLinkedin } from 'react-icons/im'
 import { FaMedium } from 'react-icons/fa'
 import { GrDocumentUser } from "react-icons/gr";
-import Resume from '../assets/ResumeUpdated.pdf'
+import Resume from '../assets/TechResumeUpdated2024.pdf'
 import { MdOutlineEmail } from "react-icons/md";
 import { AppearOnScroll } from "./AppearOnScroll"
 import { VscGithub } from "react-icons/vsc";

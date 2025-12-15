@@ -43,11 +43,11 @@ export default function Summary() {
                             <p className="mb-8 pb-2 lg:pb-0">
                                 I am passionate about creating beautiful and user-friendly sites and applications with Web Development and Design.
                             </p>
-                            <p className="mb-8 pb-2 lg:pb-0">I enjoy thinking through complex problems, and the rewarding feeling of overcoming challenges. Creating functional web applications brings me a great deal of satisfaction.</p>
+                            <p className="mb-8 pb-2 lg:pb-0">I enjoy thinking through complex problems, and the rewarding feeling of overcoming challenges. Creating functional web applications brings me a great deal of satisfaction. I currently work at a large software company as a Software Support Analyst assisting clients with software usage and issues, assisting with testing and resolving bugs, writing SQL to assist clients in retrieving and maintaining data, reporting larger issues to senior developers, and more.</p>
 
                             <p className="mb-8 pb-2 lg:pb-0">I possess a background in the mortgage and financial industry, where strong skills in detail-oriented documentation review and communicating complex product and government guidelines to teams were frequently demonstrated. My former position required me to carefully examine my work and find solutions to problems. This skillset allows me to be a valuable asset in almost any line of work, including Software Engineering and Web Development.</p>
 
-                            <p className="mb-8 pb-2 lg:pb-0">My attention to detail, excellent interpersonal skills, ability to learn new skills quickly, and excellent verbal and written communication skills make me an excellent fit for most teams!</p>
+                            <p className="mb-8 pb-2 lg:pb-0">My attention to detail, interpersonal skills, ability to learn new skills quickly, and my verbal and written communication skills make me an excellent fit for most teams!</p>
                         </div>
                     </div>
                 </div>

@@ -10,6 +10,8 @@ import { FaCss3 } from "react-icons/fa6";
 import { SiTailwindcss } from "react-icons/si";
 import { SiVite } from "react-icons/si";
 import { FaGithub } from "react-icons/fa6";
+import { PiFileSqlDuotone } from "react-icons/pi";
+
 
 
 
@@ -63,6 +65,16 @@ export default function TechStack() {
                         </h5>
 
                     </div>
+
+                    <div className="md:mb-12">
+                        <div className="md:mb-6 inline-block rounded-md bg-teal-800 dark:bg-cyan-600 md:p-4 text-gray-300 dark:text-primary text-6xl md:text-8xl">
+                            <PiFileSqlDuotone />
+
+                        </div>
+                        <h5 className="mb-4 text-lg font-bold">SQL</h5>
+
+                    </div>
+
                     <div className="md:mb-12">
                         <div className="md:mb-6 inline-block rounded-md bg-teal-800 dark:bg-cyan-600 md:p-4 text-gray-300 dark:text-primary text-6xl md:text-8xl">
                             <SiSqlite />

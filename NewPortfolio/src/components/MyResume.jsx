@@ -1,6 +1,6 @@
 import { AppearOnScroll } from "./AppearOnScroll";
 import { GrDocumentUser } from "react-icons/gr";
-import Resume from '../assets/ResumeUpdated2025.pdf'
+import Resume from '../assets/ResumeUpdated2026.pdf'
 import Cert from "../assets/Cert.png"
 
 export default function MyResume() {
